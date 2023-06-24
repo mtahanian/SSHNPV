@@ -1,0 +1,13 @@
+Host:           f42.hologate123.pro
+
+
+PORT:           22
+
+
+UserName:       pixelma7@gmail.com
+
+
+Password:       47564
+
+
+Enjoy it!
