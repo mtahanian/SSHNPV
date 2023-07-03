@@ -15,3 +15,9 @@ vless://Join-ipV2Ray@128.140.88.31:443?security=reality&sni=check-host.net&fp=ra
 vless://8e309f23-6ef8-4f82-857b-9d9983bb805c@128.140.80.0:55673?security=reality&sni=ftp.debian.org&fp=firefox&pbk=MhRvpMf1AlJ3AM6aoibIEUiu-4I8V6CF3ij82lVPbUs&sid=503ff99f&type=grpc&serviceName=@XsV2ray,@XsV2ray#Pixel13
 vless://bfc16511-621f-4b7b-b784-755857c00dfa@176.117.59.33:443?security=reality&sni=www.speedtest.net&fp=firefox&pbk=98utSPZkD3TmZNlGE9ClVd2MdXDwZj2BKASYXMAxR1w&sid=f14694e4&type=grpc#Pixel14
 vless://9a706458-fc3b-4495-b88e-b5af62d485c7@join.melov2ray.store:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BJONlP5eH1E84oEdOEYNU48yqXOumRUh85NjuGLDCWg&sid=1c7477b26926701a&type=tcp&flow=xtls-rprx-vision#Pixel15
+vless://758ce959-9020-4013-b9ee-f2bbb20de19b@nett.numallaf.shop:34301?security=&type=tcp&headerType=http&host=varzesh3.com#Pixel16
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMTgxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IlBpeGVsMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#Pixel18
+vmess://eyJhZGQiOiI1MS44OS43NC4yNDEiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTExMDIiLCJwcyI6IlBpeGVsMTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://f17209f1-ac30-42df-a415-c7963a89cc96@a.arshia.cloud:55719?security=&type=tcp&headerType=http&host=namasha.com#Pixel20
+vless://77cdd1b4-c656-4b01-f86f-5a3c0411d25a@s.legended.xyz:29283?security=&type=tcp&headerType=http&host=anten.ir#Pixel21
