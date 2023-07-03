@@ -21,3 +21,10 @@ vmess://eyJhZGQiOiI1MS44OS43NC4yNDEiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjQxODA0
 vless://f17209f1-ac30-42df-a415-c7963a89cc96@a.arshia.cloud:55719?security=&type=tcp&headerType=http&host=namasha.com#Pixel20
 vless://77cdd1b4-c656-4b01-f86f-5a3c0411d25a@s.legended.xyz:29283?security=&type=tcp&headerType=http&host=anten.ir#Pixel21
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#Pixel22
+vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@[::ffff:104.31.16.197]:80?security=&type=ws&path=/&host=FuRnItURE.MAHdAviAt.Uk#Pixel22
+vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@116.202.101.209:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel23
+vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@srv21.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=WeolSTpslOc_NqO4B8Xb1qiMY9s5F8Mg2qPr-QgIrTA&sid=&type=tcp&flow=xtls-rprx-vision#Pixel24
+vmess://eyJhZGQiOiIxNzIuNjQuMTY3LjE3MCIsImFpZCI6IjAiLCJob3N0Ijoic2ctZnJlZS5hZHcxNjgxZGRhdy50ayIsImlkIjoiZDBjY2Q4MmItNzMyZC00NTRjLTg4ZTYtZWJhM2RkZGY2N2QyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NnZnJlZSIsInBvcnQiOiI4MDgwIiwicHMiOiJQaXhlbDI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://4cd29e96-3732-4be9-bb5a-78760b188e68@5.75.208.218:443?security=reality&sni=www.speedtest.net&fp=random&pbk=Rll-qZ8TUxeX5n2yAx7azxgzmU7UQK4QwNSoABgFtkk&sid=8d97abb4e2e3e08c&type=tcp&flow=xtls-rprx-vision#Pixel26
+vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:8443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc&type=tcp&flow=xtls-rprx-vision#Pixel27
+vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel28
