@@ -1,2 +1,4 @@
 vless://9a9b9d7c-45b9-4a2b-8f27-900f8ff14bb6@104.31.16.65:443?security=tls&sni=ie.HISAMAN.art&type=grpc#PixelMCI
 vless://9a9b9d7c-45b9-4a2b-8f27-900f8ff14bb6@45.63.117.171:443?security=tls&sni=ie.hisaman.art&type=grpc#PixeIrancell
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@66.135.14.114:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#PixelMCI
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@[2001:19f0:5:d2a:5400:4ff:fe7f:d97]:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel2
