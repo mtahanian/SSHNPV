@@ -1,13 +1,13 @@
-Host:           ha60.hologate.pro
+Host:           f8.hologate123.pro
 
 
 PORT:           22
 
 
-UserName:       pixelma04@gmail.com
+UserName:       pixelma06@gmail.com
 
 
-Password:       69634
+Password:       38302
 
 
 Enjoy it!
