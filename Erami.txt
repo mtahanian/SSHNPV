@@ -1,2 +1,7 @@
-vless://d6d4224a-5821-4ab5-d948-242a3ff7c640@mci-config-injector.duckdns.org:443?security=tls&sni=ie.HISAMAN.art&type=grpc&serviceName=@https_config_injector#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://d6d4224a-5821-4ab5-d948-242a3ff7c640@mtn-config-injector.duckdns.org:443?security=tls&sni=ie.HISAMAN.art&type=grpc&serviceName=@https_config_injector#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
+vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mci-config-injector.duckdns.org:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@https_config_injector&sni=ie.HISAMAN.art#MCI
+
+
+همراه اول و مخابرات 🔵🟡
+
+
+vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mtn-config-injector.duckdns.org:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@https_config_injector&sni=ie.HISAMAN.art#Irancell
