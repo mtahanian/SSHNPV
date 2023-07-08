@@ -1,7 +1,2 @@
 vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mci-config-injector.duckdns.org:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@https_config_injector&sni=ie.HISAMAN.art#MCI
-
-
-همراه اول و مخابرات 🔵🟡
-
-
 vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mtn-config-injector.duckdns.org:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@https_config_injector&sni=ie.HISAMAN.art#Irancell
