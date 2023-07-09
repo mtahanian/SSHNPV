@@ -1,10 +1,7 @@
-vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mci-config-injector.duckdns.org:443?security=tls&sni=ie.HISAMAN.art&type=grpc&serviceName=@https_config_injector#Pixel1
-vless://f2cbd7fa-b377-46d0-9826-11fe582dbbbe@mtn-config-injector.duckdns.org:443?security=tls&sni=ie.HISAMAN.art&type=grpc&serviceName=@https_config_injector#Pixel2
-vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI&sid=7e4d2e6e&type=tcp#Pixel3
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest2.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp#Pixel4
-vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@cdn13.yahoo.haami13.online:443?security=reality&sni=www.yahoo.com&fp=firefox&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Pixel5
-vless://0bed872c-0aa0-4d07-83b9-a3377e70203e@f1.tsteam99.top:443?security=reality&sni=www.tumblr.com&fp=chrome&pbk=T9TeYgEwZITygbJ_34_fT7MEvHhQuFVAlNewLonOn0k&sid=09e3a6e96fb1&type=grpc&serviceName=hXu1zihX8H31tvQh3E8kCBh#Pixel6
-vless://93904c58-8adc-4e57-d14d-5b1d51d368ea@all-shhproxy.ddns.net:2096?security=tls&sni=cj.TrV2ray.cfd&type=grpc&serviceName=@Shh_Proxy#Pixel7
-vless://52b4adab-ad6c-4883-a0c1-21423723e54e@104.31.16.65:8443?security=tls&sni=telegram.TrV2ray.cfd&type=ws&path=/&host=telegram.TrV2ray.cfd#Pixel8
-vless://dbd63b05-5955-4752-9077-3b89be6437a5@mci-vpncustomize.ddns.net:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#Pixel9
-vless://27e97333-f0b6-4eab-96c1-0b97b9b032d6@vpncustomize.oyoha.site:8443?security=tls&sni=ch.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#Pixel10
+vmess://eyJhZGQiOiI5NS4xNzkuMjQ1LjEyOSIsImFpZCI6IjAiLCJob3N0IjoiYm1pLml0IiwiaWQiOiJhZTk4NTdkYS02NDA4LTRkZDgtYTBjZi1kZjA2MzI2MjI3ZjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTU2NiIsInBzIjoiUGl4ZWwxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://aeea492b-abfb-4f3b-edd4-ce8d9aa0b590@116.203.24.36:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=rYoE_55GAsnEh_94aAZ9CWD_krbXgLwkBOTtipEK6HQ&sid=1d87&type=tcp&flow=xtls-rprx-vision#Pixel2
+vless://c1a940ac-a217-42c4-f21e-0a07c1d5e787@91.217.119.84:8880?security=&type=ws&path=/?ed%3D2048#Pixel3
+vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#Pixel4
+vless://d99089bc-4e76-4017-826f-ea33bd78bd93@join.melov2ray.store:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=CKtMWIcp6J9uqzCg0QQfej0mb-6hVvzneGV-ousHJEE&sid=0ed4d480391fc040&type=tcp&flow=xtls-rprx-vision#Pixel5
+vless://a32dcf32-8d3a-48cf-b715-29a0fb9449b8@b3aua4raid.minecraft.pe:5010?security=reality&sni=www.tradingview.com&fp=safari&pbk=hLB9N3HutFmliwJaLcbBAq8YOe1-EnkaMPgwuxtiHVM&sid=fc7d1019&type=tcp&flow=xtls-rprx-vision#Pixel6
+vless://f4da0e97-4f69-4dfd-8fa7-d706d3db6bb7@mci-vpncustomize.aparat.lol:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#Pixel7
