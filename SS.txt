@@ -1,0 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOemd5Wg==@de01.proxysocks.xyz:8388#sshOcean-de01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOemd5Wg==@de01.proxysocks.xyz:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#sshOcean-de01.obfs_http
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOemd5Wg==@de01.proxysocks.xyz:1443/?plugin=obfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#sshOcean-de01.obfs_tls
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOemd5Wg==@de01.proxysocks.xyz:8009/?plugin=ck-client%3BUID%3Dqyq66fVCwgxv30AVsfY0Rw%3D%3D%3BPublicKey%3D0dzoRpjbt%2BdxnrorUUavj94bj4uIPXdn54HTmgyjKkY%3D%3BServerName%3Dm.youtube.com%3BBrowserSig%3Dchrome%3BNumConn%3D100%3BStreamTimeout%3D300%3BProxyMethod%3Dshadowsocks%3BEncryptionMethod%3Dplain%3BTransport%3Ddirect#sshOcean-de01.cloak
