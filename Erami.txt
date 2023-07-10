@@ -1,7 +1,7 @@
-vmess://eyJhZGQiOiI5NS4xNzkuMjQ1LjEyOSIsImFpZCI6IjAiLCJob3N0IjoiYm1pLml0IiwiaWQiOiJhZTk4NTdkYS02NDA4LTRkZDgtYTBjZi1kZjA2MzI2MjI3ZjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTU2NiIsInBzIjoiUGl4ZWwxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://aeea492b-abfb-4f3b-edd4-ce8d9aa0b590@116.203.24.36:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=rYoE_55GAsnEh_94aAZ9CWD_krbXgLwkBOTtipEK6HQ&sid=1d87&type=tcp&flow=xtls-rprx-vision#Pixel2
-vless://c1a940ac-a217-42c4-f21e-0a07c1d5e787@91.217.119.84:8880?security=&type=ws&path=/?ed%3D2048#Pixel3
-vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#Pixel4
-vless://d99089bc-4e76-4017-826f-ea33bd78bd93@join.melov2ray.store:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=CKtMWIcp6J9uqzCg0QQfej0mb-6hVvzneGV-ousHJEE&sid=0ed4d480391fc040&type=tcp&flow=xtls-rprx-vision#Pixel5
-vless://a32dcf32-8d3a-48cf-b715-29a0fb9449b8@b3aua4raid.minecraft.pe:5010?security=reality&sni=www.tradingview.com&fp=safari&pbk=hLB9N3HutFmliwJaLcbBAq8YOe1-EnkaMPgwuxtiHVM&sid=fc7d1019&type=tcp&flow=xtls-rprx-vision#Pixel6
-vless://f4da0e97-4f69-4dfd-8fa7-d706d3db6bb7@mci-vpncustomize.aparat.lol:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#Pixel7
+vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#Pixel1
+vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#Pixel2
+vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&sni=flutter.dev&fp=chrome&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&sid=42908ace&type=tcp&flow=xtls-rprx-vision#Pixel3
+vless://ce739a50-66f1-4545-a032-8c4bfe6755f3@91.107.181.184:29123?security=reality&sni=digikala.com&fp=chrome&pbk=_G2suDyQl_hFHrkeAlVE12dC_1bP-KXj4x18TtxtuRI&sid=27129ad3&type=tcp&flow=xtls-rprx-vision#Pixel4
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@141.98.24.155:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&type=tcp&flow=xtls-rprx-vision#Pixel5
+vless://e4edea02-8f26-405f-9b76-e1b1a6d9cac4@91.107.202.16:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&type=tcp&flow=xtls-rprx-vision#Pixel6
+vless://bbfdc19b-0f5a-43be-85c6-34336a68b00a@b3aua4raid.minecraft.pe:5349?security=reality&sni=s.pinimg.com&fp=safari&pbk=vwOgH5NHApg9YmiaoTtnZhP2fMYBq-Bao_UdpYOe7DM&sid=28b1cf0c&type=tcp&flow=xtls-rprx-vision#Pixel7
