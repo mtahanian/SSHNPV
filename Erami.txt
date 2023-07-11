@@ -1,7 +1,9 @@
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@70.34.197.20:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel2
+vless://98af0dd8-9c7a-40a7-8157-91f39b470b0f@onessh.vpnmt.shop:16591?security=&type=tcp&headerType=http&host=xbox.com#Pixel8
+vless://0394be9b-1907-481e-fbe1-63873818b185@join-bede1.vmessorg.fun:443?security=reality&sni=discord.com&fp=chrome&pbk=sCCsXQbQP5Dcw8Ab3Yv-G5wdLZIT0qYCJdU3hSk-mQk&sid=07&type=tcp&flow=xtls-rprx-vision#Pixel6
+vless://ce739a50-66f1-4545-a032-8c4bfe6755f3@91.107.181.184:29123?security=reality&sni=digikala.com&fp=chrome&pbk=_G2suDyQl_hFHrkeAlVE12dC_1bP-KXj4x18TtxtuRI&sid=27129ad3&type=tcp&flow=xtls-rprx-vision#Pixel5
+vless://cdf6f437-4e99-4fae-8bd7-4901ffa1306c@joinn.melov2ray.store:443?security=reality&sni=eset.com&fp=chrome&pbk=7HVX4G3sRgt2k8skEpCpQZ_RM-wTfPS0kcoeljQkeCw&sid=504a04d6&type=tcp&flow=xtls-rprx-vision#Pixel1
+vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&type=http&path=/dl/index.php#Pixel9
+vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.43.131:8443?security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&type=tcp&flow=xtls-rprx-vision#Pixel4
 vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&sni=flutter.dev&fp=chrome&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&sid=42908ace&type=tcp&flow=xtls-rprx-vision#Pixel3
-vless://ce739a50-66f1-4545-a032-8c4bfe6755f3@91.107.181.184:29123?security=reality&sni=digikala.com&fp=chrome&pbk=_G2suDyQl_hFHrkeAlVE12dC_1bP-KXj4x18TtxtuRI&sid=27129ad3&type=tcp&flow=xtls-rprx-vision#Pixel4
-vless://3cdbbb10-e586-4879-c973-3438085baf2c@141.98.24.155:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&type=tcp&flow=xtls-rprx-vision#Pixel5
-vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI&sid=7e4d2e6e&type=tcp#Pixel1
-vless://be9914a7-9255-4d79-9f20-488305e15315@49.13.19.112:2053?security=reality&sni=expat.com&fp=chrome&pbk=GBL865oUMKtOhLyieH7Lbi3iSq0t8M7aqJx2XgsZHHE&sid=8c8260bb&type=grpc#Pixel2
-vless://c10a148a-9289-4778-f539-bc85cb18dcd0@92.63.175.213:26480?security=tls&sni=picofile.com&type=tcp&headerType=http&host=picofile.com#Pixel6
 vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@70.34.197.20:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel7
