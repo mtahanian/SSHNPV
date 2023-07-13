@@ -1,7 +1,10 @@
-vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&type=http&path=/dl/index.php#Pixel1
 vless://7e07e735-2818-4e76-f75c-5ae3de65e828@yk7t-948.f-sub.site:48027?security=&type=tcp&headerType=http&host=varzesh3.com#Pixel2
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv12.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&sid=&type=tcp&flow=xtls-rprx-vision#Pixel3
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@icloud.wlftest.xyz:443?security=reality&sni=www.icloud.com&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel4
 vless://fb30e88e-03ae-49f6-aab5-7f020d42f038@172.232.54.165:443?security=reality&sni=zula.ir&fp=firefox&pbk=NsCymPg11gclHbu15n_8VPo39WvdqWKGFM-qPyvAJWA&sid=e6dadcba&type=grpc#Pixel5
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest2.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel6
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv10.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=U08a1PYtP_L4RxrSL0Ib5ItYrKxlluPOMzXCF5sbzm0&sid=&type=tcp&flow=xtls-rprx-vision#Pixel7
+vless://04a87363-5b48-44e6-a42b-1dd1e149b815@213.232.203.85:25830?security=&type=tcp&headerType=http&host=speedtest.net#Pixel8
+vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv12.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&sid=&type=tcp&flow=xtls-rprx-vision#Pixel9
+vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@icloud.wlftest.xyz:443?security=reality&sni=www.icloud.com&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel10
+vless://fb30e88e-03ae-49f6-aab5-7f020d42f038@172.232.54.165:443?security=reality&sni=zula.ir&fp=firefox&pbk=NsCymPg11gclHbu15n_8VPo39WvdqWKGFM-qPyvAJWA&sid=e6dadcba&type=grpc#Pixel1
