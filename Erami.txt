@@ -1,7 +1,11 @@
+vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&type=tcp#Pixel9
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@70.34.197.20:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel7
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@172.232.53.28:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=m9bHjywCrJazYiaNmqZCpaz6KcWLr2lkezGHpsZtLgk&sid=cd1f34f4&type=tcp&flow=xtls-rprx-vision#Pixel2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UzhSSGN2cGRUV1ZUbVVMc2dOeUYx@51.140.252.177:63931#Pixel5
+vless://3b542718-9051-4e54-e4a5-0c4d0229234c@65.109.241.91:443?security=&type=tcp&headerType=http&host=speedtest.net#Pixel11
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@172.232.53.28:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=m9bHjywCrJazYiaNmqZCpaz6KcWLr2lkezGHpsZtLgk&sid=cd1f34f4&type=tcp&flow=xtls-rprx-vision#Pixel12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UzhSSGN2cGRUV1ZUbVVMc2dOeUYx@51.140.252.177:63931#Pixel13
 vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&type=tcp#Pixel1
-vless://9aadd9bd-a289-4a28-cbeb-244858f0ae36@gagan.gangme.space:2083?security=tls&sni=Telegram-vpnfreesec.fun&fp=safari&type=grpc&serviceName=@VpnFreeSec%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7%20/@VpnFreeSec%20%DA%86%D9%86%D9%84%D9%85%D8%A7#Pixel2
-vless://9e598abd-35f0-462d-8780-a535021ab81f@vpn-mikeymtn.ddns.net:8443?security=tls&sni=P1.Mikeyv2ray.cfd&type=grpc&serviceName=@Vpn_Mikey#Pixel5
-vless://b71ba669-38fa-460b-9e91-922782668c8e@mci-vpncustomize.aparat.lol:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#Pixel7
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv12.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&sid=&type=tcp&flow=xtls-rprx-vision#Pixel3
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@icloud.wlftest.xyz:443?security=reality&sni=www.icloud.com&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel4
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest2.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#Pixel6
