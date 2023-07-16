@@ -3,3 +3,5 @@ vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.56.167:443?security=reality&s
 vless://09ca7089-6455-4068-b3d3-28e8480bd741@all-shhproxy.ddns.net:2096?security=tls&sni=dl.PlV2ray.cfd&type=grpc&serviceName=@Shh_Proxy#Pixel3
 vless://78047fd6-2df5-43fd-8b9b-bfa804fe7441@all-shhproxy.ddns.net:2096?security=tls&sni=dl.PlV2ray.cfd&type=grpc&serviceName=@Shh_Proxy#Pixel4
 vless://channel-MsV2ray@65.21.245.85:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=CnhbDytdeUYhhL48Lcczly0_CrKwiiu0wyRj719eMxo&sid=1e8c5bbf&type=grpc&serviceName=@MsV2ray#Pixel5
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@149.28.97.41:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel6
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@[2001:19f0:9003:10a:5400:4ff:fe82:a7c]:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#Pixel7
