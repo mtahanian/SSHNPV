@@ -1,13 +1,13 @@
-Host:           h536.hologate24.com
+Host:           fd61.hologate11.pro
 
 
 PORT:           22
 
 
-UserName:       pixelma016@gmail.com
+UserName:       pixelma020@gmail.com
 
 
-Password:       58535
+Password:       62249
 
 
 Enjoy it!
