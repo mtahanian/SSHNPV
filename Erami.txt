@@ -1,9 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.202.58.144:443#%D8%B3%D8%B1%D9%88%D8%B1%209%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vmess://eyJhZGQiOiIxNTYuMjQ1LjguNjYiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjVhNGQ2OWFkLTIwYTktNDk0MS1iMjIzLTg3YmJkMDlmNWY1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc4NTUiLCJwcyI6Itiz2LHZiNixIDcgLSDZvtuM2qnYs9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://f328bd85-f5cd-4dc1-a2fc-383af5fec94d@185.126.255.88:45077?security=reality&sni=www.speedtest.net&fp=chrome&pbk=eBdj8fFccTPnnz966Cl7kTEQDASdCLu15YOgGPJbyTo&sid=218f8557&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%202%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://391985a5-f3ce-4b56-dc14-d660db163806@23.88.104.100:80?security=&type=ws&path=/#%D8%B3%D8%B1%D9%88%D8%B1%205%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@95.142.40.102:443?security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http#%D8%B3%D8%B1%D9%88%D8%B1%203%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.34.28:8443?security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&type=tcp&flow=xtls-rprx-vision#%D8%B3%D8%B1%D9%88%D8%B1%201%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.56.167:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#%D8%B3%D8%B1%D9%88%D8%B1%206%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://a5aab728-0d77-42ed-86fc-1d6c725f9a0b@116.203.191.170:80?security=&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%204%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
-vless://12a170ba-5abd-44af-f8eb-7fd7e11de4c7@5.161.210.116:80?security=&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%208%20-%20%D9%BE%DB%8C%DA%A9%D8%B3%D9%84
+vless://12a170ba-5abd-44af-f8eb-7fd7e11de4c7@5.161.210.116:80?security=&type=tcp#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%201
+vless://8cdb1909-5917-4848-8c69-47a285d942f3@mci-vpncustomize.aparat.lol:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%205
+vless://d84b6726-91ff-45b1-9b88-8ae9e8300568@all-vpncusomize.aparat.lol:2053?security=tls&sni=tel.TrV2ray.cfd&type=ws&path=/&host=tel.TrV2ray.cfd#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%203
+vless://8cdb1909-5917-4848-8c69-47a285d942f3@mci-vpncustomize.aparat.lol:2096?security=tls&sni=yiy.TrV2ray.cfd&type=grpc&serviceName=@VPNCUSTOMIZE#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%204
+vless://91d277cf-4093-40da-ab2a-feb5feb1a40a@mci-itv2ray.ddns.net:2083?security=tls&sni=tm.iTV2RAY.lol&type=grpc&serviceName=@iTV2RAY:%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%202
