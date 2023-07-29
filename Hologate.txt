@@ -1,4 +1,4 @@
-Host:           fd60.hologate11.pro
+Host:           ha62.hologate.pro
 
 
 PORT:           22
@@ -7,7 +7,7 @@ PORT:           22
 UserName:       pixelma022@gmail.com
 
 
-Password:       42769
+Password:       79474
 
 
 Enjoy it!
