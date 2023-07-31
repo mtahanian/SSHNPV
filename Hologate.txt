@@ -1,13 +1,13 @@
-Host:           vf8.hologate2.com
+Host:           ha62.hologate.pro
 
 
 PORT:           22
 
 
-UserName:       pixelma024@gmail.com
+UserName:       pixelma025@gmail.com
 
 
-Password:       93811
+Password:       31630
 
 
 Enjoy it!
