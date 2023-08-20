@@ -12,3 +12,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cWtjV2hKUnJQdkZQS1p1ODdWVVMw@132.outline-vp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M=@876.outline-vpn.cloud:443#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D9%84%D9%BE%20%7C%20%D8%B3%D8%B1%D9%88%D8%B1%2012
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNHdrSXJyZUhFZEM=@727.outline-vpn.cloud:443#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D9%84%D9%BE%20%7C%20%D8%B3%D8%B1%D9%88%D8%B1%2013
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@239.outline-vpn.cloud:443#%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%D9%84%D9%BE%20%7C%20%D8%B3%D8%B1%D9%88%D8%B1%2014
+vless://41aa8a1f-7348-4133-8b76-cf49ab0b68c2@mtn-shhproxy.ddns.net:8443?security=tls&sni=i.ShV2ray.cfd&type=grpc&serviceName=@Shh_Proxy&encryption=none#FaircadoServer
