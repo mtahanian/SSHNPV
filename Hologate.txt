@@ -1,13 +1,13 @@
-Host:           ha62.hologate.pro
+Host:           z53.hologate.info
 
 
 PORT:           22
 
 
-UserName:       pixelma025@gmail.com
+UserName:       pixelma030@gmail.com
 
 
-Password:       31630
+Password:       55220
 
 
 Enjoy it!
