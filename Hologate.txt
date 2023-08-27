@@ -9,5 +9,16 @@ UserName:       pixelma030@gmail.com
 
 Password:       55220
 
+=============================================
+
+SSHOCEAN FRANCE *NEW:
+
+HOST:           fr-scw.ssh0.net
+
+PORT:           22
+
+UserName:       sshocean-pixelma0102gmailcom
+
+Password:       pixelma0102
 
 Enjoy it!
